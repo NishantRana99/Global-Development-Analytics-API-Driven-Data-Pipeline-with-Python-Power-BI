@@ -62,3 +62,9 @@ Data Integration
 Power BI
        ↓
 Interactive Dashboard
+
+# Data
+
+The datasets in this folder are processed/exported datasets used during the development and analysis of the project.
+
+The primary data source is the World Bank API. The Python pipeline retrieves and transforms the latest available data from the API.
